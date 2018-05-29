@@ -1,0 +1,36 @@
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.idea
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+*/.gitignore
+wis-page/node_modules
+wis-page/src/config/env.js
+*/*.iml
+*.iml
+*/target
+wis-config/target
+wis-page/.DS_Store
+wis-page/.project
+/wis-config/target
+target
+/wis-config/target
+/wis-config/.gitignore
+/wis-base/.gitignore
+/wis-biz/.gitignore
+/wis-bpm/.gitignore
+/wis-webapp/.gitignore
+/wis-base/target
+/wis-biz/target
+/wis-bpm/target
+/wis-config/src/main/resources/log4j.properties
+/wis-config/src/main/resources/dbconfig.properties
+
+
